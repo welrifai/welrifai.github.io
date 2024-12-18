@@ -1,6 +1,6 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://welrifai.github.io
 
-languageCode: bn
+languageCode: en
 title: "John's Blog"
 
 # Use Hugo modules to add theme
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/welrifai/welrifai.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -157,7 +157,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-WRH178B2HW
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
