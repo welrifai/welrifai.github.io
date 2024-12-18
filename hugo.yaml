@@ -1,7 +1,7 @@
 baseURL: https://welrifai.github.io
 
 languageCode: en
-title: "Wael's Blog"
+title: "Wael Elrifai"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Wael's Blog"
+    title: "Wael Elrifai"
     weight: 1
 
 # default language for the content
@@ -98,11 +98,11 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        # facebook: true
+        # twitter: true
         linkedin: true
-        reddit: true
-        whatsapp: true
+        # reddit: true
+        #  whatsapp: true
         email: true
         # tumblr: true
         # pocket: true
