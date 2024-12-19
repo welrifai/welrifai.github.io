@@ -16,7 +16,7 @@ accomplishments:
   organization:
     name: Hitachi Vantara
     url: https://hitachivantara.com
-  courseOverview: "Four-time recipient of President's Club award for having exceeded leadership sales quotas for the year."
+  courseOverview: "Four-time recipient of President's Club award for having exceeded leadership sales quotas for the year, most recently above $80m/year."
   # certificateURL: "https://example.com"
 
 - name: Three-time Technical Founder
@@ -68,4 +68,11 @@ accomplishments:
   courseOverview: Elected by the membership to the Board of Directors, the governing body of the Alliance for AI, IOT and Edge Continuum Innovation.  Served as Treasurer of this organisation whose membership includes leaders in industrty, government, and academia.
   # certificateURL: "https://example.com"
  
+- name: Press and Media
+  # timeline: "2019 - 2023"
+  # organization:
+  #   name: 
+  #   url: https://aioti.eu/
+  courseOverview: Featured in leading publications including BBC, Forbes, Financial Times, and The Telegraph as well as television and conferences as an industry expert on AI & IoT. Regular commentator on enterprise technology strategy, with recognized thought leadership in predictive analytics and smart city innovations.
+  # certificateURL: "https://example.com"
 
