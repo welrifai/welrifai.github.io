@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Accomplishments
+  name: Key Accomplishments & Honours
   id: accomplishments
   enable: true
-  weight: 9
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,36 +11,61 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: President's Sales Leadership Club
+  timeline: "2015 - 2021"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Hitachi Vantara
+    url: https://hitachivantara.com
+  courseOverview: "Four-time recipient of President's Club award for having exceeded leadership sales quotas for the year."
+  # certificateURL: "https://example.com"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Three-time Technical Founder
+  timeline: "2008 - Present"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+     name: Several companies
+     url: ""
+  courseOverview: "Founded three companies, one of which was acquired (Peak Consulting), one that is currently in operation (Proxximos), and one that had an orderly shut-down."
+  # certificateURL: "https://example.com"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Startup Fundraising
+  timeline: "2021 - 2024"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
+    name: Proxximos
+    url: https://startcodon.co/portfolio/proxximos
+  courseOverview: Co-lead two rounds of succesful fundraising from Venture Capital investors, Angel investors, private industry, and Government grants.
+  # certificateURL: "https://startcodon.co/portfolio/proxximos"
+
+- name: University of Oxford MBA Graduation with Distinction
+  timeline: "2022"
+  organization:
+    name: University of Oxford
+    url: https://www.ox.ac.uk/
+  courseOverview: "Graduation with Distinction from the University of Oxford's MBA program, one of the most competitive in the world."
+  # certificateURL: "https://example.com"
+
+- name: Author of The Future of IOT
+  # timeline: "March 2018 - March 2019"
+  organization:
+    name: Amazon
+    url: https://www.amazon.com/stores/Wael-Elrifai/author/B072Q8WX1L?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true
+  courseOverview: "The Future of IoT is written for executives and senior managers of both enterprise organizations and technology companies alike to better understand the progression of the Internet of Things; how and why the data from these systems is becoming the most important element of the equation, how to best leverage the data, and the opportunities that lie ahead for those who get it right."
+  # certificateURL: "https://example.com"
+
+- name: Elected as a Fellow of the British Computer Society (BCS)
+  timeline: "2022"
+  organization:
+    name: British Computer Society
+    url: https://www.bcs.org/
+  courseOverview: "The Fellow of the BCS title is conferred on individuals to recognise their outstanding achievements and contributions to Information Technology. It is the highest grade of BCS membership and is awarded to those who have made a significant contribution to the profession."
+  # certificateURL: "https://example.com"
+
+- name: Elected Board Member of the Alliance for AI, IOT and Edge Continuum Innovation
+  timeline: "2019 - 2023"
+  organization:
+    name: AIOTI
+    url: https://aioti.eu/
+  courseOverview: Elected by the membership to the Board of Directors, the governing body of the Alliance for AI, IOT and Edge Continuum Innovation.  Served as Treasurer of this organisation whose membership includes leaders in industrty, government, and academia.
+  # certificateURL: "https://example.com"
  
 

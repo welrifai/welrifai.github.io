@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Selected Experience
   id: experiences
   enable: true
   weight: 3
@@ -11,63 +11,110 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Proxximos
+    url: "https://www.proxximos.com"
+    location: London, UK
+    logo: /images/sections/experiences/proxximos_logo-dark.svg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    darkLogo: /images/sections/experiences/proxximos_logo.svg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Proxximos develops a hardware and software platform to track and help prevent the spread of infectious diseases.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Chief Technology Officer
+    start: Jul 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Sep 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Design hardware platform including electronics and firmware.
+    - Co-lead two rounds of succesful fundraising.
+    - Supervise & develop machine learning approaches to prevent outbreaks.
+    - Supervise Head of Sales & Marketing including managing forecasting.
+    - Present to investors, board of directors, hospitals, and government.
+    
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Hitachi Vantara
+    url: "https://hitachivantara.com"
+    location: London, UK
+    logo: /images/sections/experiences/hitachi_vantara_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: "Part of the Hitachi Group, Hitachi Vantara empower businesses, including the Fortune 100, to innovate and scale through data. From solid data infrastructure, intelligent data management and AI powered hybrid cloud solutions — we’re the data backbone for the mission-critical."
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Global Vice Presidence of Sales Engineering
+    start: Sep 2015
+    end: Jan 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Manage team of ~120 Sales Engineers responsible for $80m in annual revenue.
+    - Lead the growth of the team from 7 to more than 120 in 5 years post-acquisition.
+    - Develop procedures and processes for the team to scale.
+    - Served on the executive leadership team and product management boards.
+
+- company:
+    name: University of Oxford
+    url: "https://www.ox.ac.uk/"
+    location: Oxford, UK
+    logo: /images/sections/experiences/Oxford_logo_dark.png
+    # Can optionally show a different logo for dark theme
+    darkLogo: /images/sections/experiences/Oxford_logo_dark.png
+    overview: The University of Oxford is one of the world’s leading academic institutions, renowned for its excellence in education, research, and innovation.
+  positions:
+  - designation: Associate Fellow
+    start: Feb 2023
+    # end: May 2017
+    responsibilities:
+    - Lecture on the topic of Artificial Intelligence.
+    - Assist with the development of the AI Executive curriculum.
+    - Assist with sales efforts to bring in new clients.
+
+- company:
+    name: Peak Consulting
+    url: ""
+    location: London, UK
+    logo: /images/sections/experiences/peak_consulting_logo.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: "Machine Learning and Data Engineering consulting firm, specialising in the development of predictive solutions for manufacturing and risk management."
+  positions:
+  - designation: Managing Director
+    start: Apr 2006
+    end: Aug 2015
+    responsibilities:
+    - Founded the company and grew to ~30 employees.
+    - Sold the business in 2013 and managed the transition.
+    - Designed and developed machine learning solutions at a time when they were not yet mainstream.
+
+- company:
+    name: Alliance for Artificial Intelligence, Internet of Things and Edge Continuum Innovation
+    url: "https://aioti.eu"
+    location: London, UK & Brussels, Belgium
+    logo: /images/sections/experiences/AIOTI-Logo-2024_dark.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Founded by the European Commission, AIOTI fosters the development and growth of the AI and Internet of Things (IoT) ecosystems. It serves as a collaborative platform that brings together stakeholders from industry, academia, and government to address challenges and opportunities in the AI and IoT domains.
+  positions:
+  - designation: Board of Directors, Treasurer
+    start: Oct 2019
+    end: Jun 2023
+    responsibilities:
+    - Oversee and Audit the financial statements of the organization.
+    - Present at conferences and events.
+    - Develop organisational recruiting, growth & development plans.
+
+- company:
+    name: Oxford Seed Fund
+    url: "https://aioti.eu"
+    location: London, UK & Brussels, Belgium
+    logo: /images/sections/experiences/oxford_seed_fund.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Oxford Seed Fund invests into startups where either a current Oxford student, alumni or researcher is part of the founding team.
+  positions:
+  - designation: College Liaison & Investment Director
+    start: Nov 2020
+    end: Nov 2021
+    responsibilities:
+    - Review investment proposals and make recommendations to the investment committee.
+    - Help startups develop their investment pitches.
+    - Raise awareness of the Oxford Seed Fund within the Oxford alumni and Wolfson College communities.

@@ -7,15 +7,17 @@ image: "images/author/wael.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "wael@elrifai.org"
-  phone: "+32 471 36 24 12"
+  # phone: "+32 471 36 24 12"
+  phone:  "+44 74 4743 0757"
   # github: welrifai
   linkedin: waelelrifai
   # researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - I'm a CTO
+  - CTO
   - Sales Engineering Leader
+  - Keynote Speaker
   - Startup Founder (with exits)
   - Associate Fellow at Oxford University
   - Fellow of the British Computer Society
