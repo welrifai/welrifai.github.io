@@ -1,6 +1,9 @@
-# [https://wael.elrifai.org](https://wael.elrifai.org)
+# [Wael's website](https://wael.elrifai.org)
 
-Personal website of Wael Elrifai[LinkedIn](https://www.linkedin.com/in/waelelrifai)
+Personal website of [Wael Elrifai, FBCS](https://www.linkedin.com/in/waelelrifai)
 
-[![Build Status](https://github.com/wael-elrifai/welrifai.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/wael-elrifai/welrifai.github.io/actions/workflows/main.yml)![Repository Size](https://img.shields.io/github/repo-size/hugo-toha/hugo-toha.github.io) ![Last Commit](https://img.shields.io/github/last-commit/hugo-toha/hugo-toha.github.io) ![License](https://img.shields.io/github/license/hugo-toha/hugo-toha.github.io) ![Open Issues](https://img.shields.io/github/issues/hugo-toha/hugo-toha.github.io?color=important) ![Open Pull Requests](https://img.shields.io/github/issues-pr/hugo-toha/hugo-toha.github.io?color=yellowgreen) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fhugo-toha.github.io%2F)ß![Repository Size](https://img.shields.io/github/repo-size/wael-elrifai/welrifai.github.io) ![Last Commit](https://img.shields.io/github/last-commit/wael-elrifai/welrifai.github.io) ![License](https://img.shields.io/github/license/wael-elrifai/welrifai.github.io) ![Open Issues](https://img.shields.io/github/issues/wael-elrifai/welrifai.github.io?color=important) ![Open Pull Requests](https://img.shields.io/github/issues-pr/wael-elrifai/welrifai.github.io?color=yellowgreen) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fwael.elrifai.org%2F)
-
+![Build Status](https://img.shields.io/github/actions/workflow/status/welrifai/welrifai.github.io/hugo-gh-actions.yml?label=Build%20Status&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/welrifai/welrifai.github.io?style=flat-square)
+![Open Pull Requests](https://img.shields.io/github/issues-pr/welrifai/welrifai.github.io?style=flat-square)
+![Open Issues](https://img.shields.io/github/issues/welrifai/welrifai.github.io?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/welrifai/welrifai.github.io?style=flat-square)
