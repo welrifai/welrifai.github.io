@@ -11,7 +11,7 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: President's Sales Leadership Club
+- name: Sales Leadership "President's Club"
   timeline: "2015 - 2021"
   organization:
     name: Hitachi Vantara
@@ -19,22 +19,21 @@ accomplishments:
   courseOverview: "Four-time recipient of President's Club award for having exceeded leadership sales quotas for the year, most recently above $80m/year."
   # certificateURL: "https://example.com"
 
-- name: Three-time Technical Founder
-  timeline: "2008 - Present"
+- name: Parliamentary Testimony
+  timeline: "2019"
   organization:
-     name: Several companies
-     url: ""
-  courseOverview: "Founded three companies, one of which was acquired (Peak Consulting), one that is currently in operation (Proxximos), and one that had an orderly shut-down."
+    name: "All Party Parliamentary Group on Artificial Intelligence (APPG AI)"
+    url: "https://bicpavilion.com/about_pavilion/appg-artificial-intelligence"
+  courseOverview: "Invited to provdide testimony in the House of Lords to the All Party Parliamentary Group on Artificial Intelligence on the topic of AI and IoT in the UK, including societal, economic, and technical implications."
   # certificateURL: "https://example.com"
 
-
-- name: Startup Fundraising
-  timeline: "2021 - 2024"
+- name: Three-time Founder
+  timeline: "2008 - Present"
   organization:
-    name: Proxximos
-    url: https://startcodon.co/portfolio/proxximos
-  courseOverview: Co-lead two rounds of succesful fundraising from Venture Capital investors, Angel investors, private industry, and Government grants.
-  # certificateURL: "https://startcodon.co/portfolio/proxximos"
+    name: Several companies
+    url: ""
+  courseOverview: "Founded three companies (1 acquired, 1 still running, 1 failed), demonstrating expertise in fundraising, technical leadership, and strategic vision."
+  # certificateURL: "https://example.com"
 
 - name: University of Oxford MBA Graduation with Distinction
   timeline: "2022"
@@ -49,7 +48,7 @@ accomplishments:
   organization:
     name: Amazon
     url: https://www.amazon.com/stores/Wael-Elrifai/author/B072Q8WX1L?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true
-  courseOverview: "The Future of IoT is written for executives and senior managers of both enterprise organizations and technology companies alike to better understand the progression of the Internet of Things; how and why the data from these systems is becoming the most important element of the equation, how to best leverage the data, and the opportunities that lie ahead for those who get it right."
+  courseOverview: "The Future of IoT is written for executives and senior managers of both enterprise organizations and technology companies alike to better understand the progression of the Internet of Things."
   # certificateURL: "https://example.com"
 
 - name: Elected as a Fellow of the British Computer Society (BCS)
@@ -75,4 +74,3 @@ accomplishments:
   #   url: https://aioti.eu/
   courseOverview: Featured in leading publications including BBC, Forbes, Financial Times, and The Telegraph as well as television and conferences as an industry expert on AI & IoT. Regular commentator on enterprise technology strategy, with recognized thought leadership in predictive analytics and smart city innovations.
   # certificateURL: "https://example.com"
-
