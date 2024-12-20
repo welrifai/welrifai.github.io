@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Rich Content
     identifier: rich-content
-    parent: sub-category
+    parent: booknotes
     weight: 10
 hero: images/forest.jpg
 tags:
